@@ -51,6 +51,8 @@
 	</li>
 </ul>
 
+## Скриншоты
+
 <img src="https://github.com/Artem1524/3D_Arkanoid/blob/master/1.png"/>
 
 <img src="https://github.com/Artem1524/3D_Arkanoid/blob/master/2.png"/>
