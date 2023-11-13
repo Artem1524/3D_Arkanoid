@@ -53,6 +53,8 @@
 
 ## Скриншоты
 
+<img src="https://github.com/Artem1524/3D_Arkanoid/blob/master/Arkanoid.gif"/>
+
 <img src="https://github.com/Artem1524/3D_Arkanoid/blob/master/1.png"/>
 
 <img src="https://github.com/Artem1524/3D_Arkanoid/blob/master/2.png"/>
